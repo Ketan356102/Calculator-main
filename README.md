@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Calculator 
 ![Build](https://img.shields.io/badge/build-passed-brightgreen.svg)
 ![GitHub license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
@@ -64,3 +65,6 @@ The project is composed by eight required tasks and three optional tasks, I went
 
 ## 
 **Copyright (c) 2017 Andrea Vultaggio under MIT License.**
+=======
+# Calculator-main
+>>>>>>> 9c03ae74b7c66ea71a1c3ec7595afdbeb1edcad9
